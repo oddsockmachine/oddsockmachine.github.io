@@ -2,6 +2,8 @@
 
 ### An interactive and immersive showcase of light, spatial music and 3D ambient sound, designed to intrigue and inspire. Wander through a gamelan orchestra, lay in the middle of a breaking wave, or surround yourself with swirling piano notes and singing birds.
 
+![Overview pic](auditorium3 v22d.png)
+
 ## Physical Description
 
 #### Construction
@@ -25,6 +27,8 @@
 #### Materials
 - The columns themselves are made of an aluminum skeleton with black plastic panels attached to the surface. An inner layer of white plastic diffuses the internal lighting through the etched markings.
 
+![Overview pic](auditorium3 v22e.png)
+
 ## Interactivity
 
 - The installation is designed to play a mix of specially created music (piano, orchestra, electronic, ambient, world, and more) and natural soundscapes (the sounds of campfires, forests, birdsong, rolling waves, rain, wind, and so on), all recorded and created specifically for a spatial audio setup. This means individual parts of the audio - whether a single instrument, a single bird, or even a single piano note - can be moved around the space in real time.
@@ -33,6 +37,8 @@
 - Combine these three, and there are endless opportunities for interactivity.
 - When the piece detects nobody nearby, it can try to lure participants in from a distance with intriguing light and sound. A single participant coming close might elicit a solo piano piece, with individual notes, echoes, harmonies and counterpoint swirling around them. A (virtual) campfire could be lit in the center, with the sound of crackling logs, while birdsong skirts the perimeter. The detection of multiple people might prompt a symphony orchestra piece, with every instrument coming from a different place. People sitting and relaxing late at night might warrant softer ambient music, with the gentle sounds of waves crashing across the space, whereas many people walking around in the early evening might lead to something a bit more upbeat.
 - Overall, the piece aims to automatically respond to the people and circumstances around it in whichever way will best provoke reflection, wonder, and intrigue.
+
+![Overview pic](auditorium3 v25.png)
 
 ## Mission
 Inclusion and participation have been at the forefront of my mind while designing this. I want to create a space that is welcoming and inclusive by its very nature - no walls or doors, no entry lines, no center, front, or best spot to be. That inclusivity leads to participation. Likewise, there are no buttons or obvious inputs - participation is innate. Everyone who comes close is automatically a participant in the shared experience, and their presence helps to shape the events that unfold.
