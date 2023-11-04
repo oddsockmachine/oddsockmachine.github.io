@@ -51,3 +51,26 @@ Most immediately tangible is simply “making something cool”. I’ve been wor
 I’m also leaning heavily on natural influences for this piece. Black Rock Desert can be harsh and unforgiving, and the physical structure is equally stark at first glance. One of the only things I miss while at Burning Man, and the thing I appreciate first when I leave, is exposure to the natural world. We all have an inbuilt kinship with rustling leaves, running water, and birdsong - exposure to these is shown to reduce stress, and the opposite is equally true. Through the use of soundscapes, gentle music, and lighting, I’d like to bring a reminder of the softer side of the natural world which can otherwise feel absent from the desert - like an oasis. This is closely tied to the underlying concept of the overall piece (as explained on its interpretive sign): an auditory vault of natural sounds and human music, from a future in which both have died out. I want to remind participants of the value of both of these.
 
 The playa can be an overwhelming place at night: loud thumping music and bright flashy lights can be hard to escape. I’d like to create a place of respite, where people feel comfortable slowing down, having space to reflect and feel recharged. I’m also planning to showcase a lot of musical genres which are not well represented at Burning Man (Indian classical, Gamelan, West African ensembles, ambient, classical & contemporary piano), all of which bring a different energy and allow people to step outside their usual experience to experience something new.
+
+
+## Progress so far...
+
+#### Audio
+- Custom programs created to process large numbers of audio streams, and move audio sources around in 3D space
+- Custom audio hardware built to handle all the audio outputs
+
+#### Lighting
+- Testing with basic LED strips
+- Proof of concepts for music-reactive lighting
+
+#### Hardware
+- Testing with a dozen $5 speakers
+- Building some example columns to prove strength and stability
+
+#### Music
+- 3D audio soundscapes recorded
+- Many orchestra and classical pieces created
+
+## Next steps
+- Make the existing setup portable, and test it at full size in Golden Gate Park
+- More recordings of live music
