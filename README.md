@@ -63,11 +63,12 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 - Custom audio hardware built to handle all the audio outputs
 
 #### Lighting
-- Testing with basic LED strips
-- Proof of concepts for music-reactive lighting
+- Music-reactive lighting now works
+- Custom LED drivers
 
 #### Hardware
-- Started construction of full sized columns
+- Aluminium skeletons constructed for columns
+- Purchased plastic for columns
 
 #### Music
 - 3D audio soundscapes recorded
@@ -77,6 +78,6 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 - Throw in a few curveballs too, using recoding stems from popular artists
 
 ## Next steps
-- Make the existing setup portable, and test it at full size in Golden Gate Park
-- More recordings of live music
-- Program LED reactivity
+- Programming lighting modes
+- Lots of CNC cutting of patterns in the plastic
+- Building furniture for sitting on (probably CNC-cut playatech)
