@@ -69,6 +69,8 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 #### Hardware
 - Aluminium skeletons constructed for columns
 - Purchased plastic for columns
+- Started CNC machining the patterns into the plastic
+- First few columns finished
 
 #### Music
 - 3D audio soundscapes recorded
@@ -79,5 +81,4 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 
 ## Next steps
 - Programming lighting modes
-- Lots of CNC cutting of patterns in the plastic
 - Building furniture for sitting on (probably CNC-cut playatech)
