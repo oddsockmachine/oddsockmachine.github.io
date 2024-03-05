@@ -47,7 +47,7 @@ Some of my favorite experiences with art on-playa have been those where the inte
 
 ## Philosophy
 There are several facets to this:
-Most immediately tangible is simply “making something cool”. I’ve been working with spatial audio since I was a teenager, and have never tried or experienced it on this scale. I hope this can be an experience that provokes fascination and childlike wonder in people who have likely never experienced anything like it. (Early tests show that this is definitely the case!)
+Most immediately tangible is simply “making something cool”. I hope this can be an experience that provokes fascination and childlike wonder in people who have likely never experienced anything like it. (Early tests show that this is definitely the case!)
 
 I’m also leaning heavily on natural influences for this piece. Black Rock Desert can be harsh and unforgiving, and the physical structure is equally stark at first glance. One of the only things I miss while at Burning Man, and the thing I appreciate first when I leave, is exposure to the natural world. We all have an inbuilt kinship with rustling leaves, running water, and birdsong - exposure to these is shown to reduce stress, and the opposite is equally true. Through the use of field recordings, soundscapes, gentle music, and lighting, I’d like to bring a reminder of the softer side of the natural world which can otherwise feel absent from the desert - like an oasis. This is closely tied to the underlying concept of the overall piece (as explained on its interpretive sign): an auditory vault of natural sounds and human music, from a future in which both have died out. I want to remind participants of the value of both of these.
 
