@@ -16,17 +16,17 @@
 - The lights within each column complement and react to the sounds coming from within - for example simulating a campfire, fireflies, or rolling waves to match the soundscape, or creating falling raindrops in time to the notes of a piano piece.
 
 #### Appearance
-- Overall, the installation is designed to look like the remnants of a futuristic structure - long since abandoned, but somehow still functional. An interpretive sign on one of the columns explains the history of the ruins. It aims to be mysterious and intriguing from a distance, yet warm and welcoming up-close.
+- Patterns are carved into the surface of each column, evocative of natural phenomena: wings, mountains, leaves, waves, flames. A backing layer of white plastic diffuses the interior light giving everything a soft glow. It aims to be mysterious and intriguing from a distance, yet warm and welcoming up-close.
 
 #### Seating
 - Benches, ottomans, blankets and cushions will be scattered around to allow participants to sit and enjoy the music and lights. The hope is to make this a place where people will want to sit and rest, and that people will want to stay for long enough to see and hear the variety of experiences on offer.
 
 #### Activity
-- It will be most visually effective at night, hopefully acting as a beacon to draw in nearby people. However (subject to power budget), it will likely be musically active during the day as well.
+- It will be most visually effective at night, hopefully acting as a beacon to draw in nearby people. However it will also be musically active during the day as well.
 
 #### Materials
 - The columns themselves are made of an aluminum skeleton with black plastic panels attached to the surface. An inner layer of white plastic diffuses the internal lighting through the etched markings.
-- Benches and other seating options will be made of plywood.
+- Benches and other seating options are made of plywood.
 
 ![Overview pic](closeup.jpg)
 
@@ -44,10 +44,7 @@
 ## Mission
 Inclusion and participation have been at the forefront of my mind while designing this. I want to create a space that is welcoming and inclusive by its very nature - no walls or doors, no entry lines, no center, front, or best spot to be. That inclusivity leads to participation. Likewise, there are no buttons or obvious inputs - participation is innate. Everyone who comes close is automatically a participant in the shared experience, and their presence helps to shape the events that unfold.
 Some of my favorite experiences with art on-playa have been those where the interactivity of the piece is not immediately obvious, but instead is discovered collaboratively with those sharing the experience through discussion and experimentation - this is something I’d love to foster with this piece.
-
-## Philosophy
-There are several facets to this:
-Most immediately tangible is simply “making something cool”. I hope this can be an experience that provokes fascination and childlike wonder in people who have likely never experienced anything like it. (Early tests show that this is definitely the case!)
+I hope this can be an experience that provokes fascination and childlike wonder in people who have likely never experienced anything like it. (Early tests show that this is definitely the case!)
 
 I’m also leaning heavily on natural influences for this piece. Black Rock Desert can be harsh and unforgiving, and the physical structure is equally stark at first glance. One of the only things I miss while at Burning Man, and the thing I appreciate first when I leave, is exposure to the natural world. We all have an inbuilt kinship with rustling leaves, running water, and birdsong - exposure to these is shown to reduce stress, and the opposite is equally true. Through the use of field recordings, soundscapes, gentle music, and lighting, I’d like to bring a reminder of the softer side of the natural world which can otherwise feel absent from the desert - like an oasis. This is closely tied to the underlying concept of the overall piece (as explained on its interpretive sign): an auditory vault of natural sounds and human music, from a future in which both have died out. I want to remind participants of the value of both of these.
 
@@ -58,27 +55,13 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 
 ## Progress so far...
 
-#### Audio
-- Custom programs created to process large numbers of audio streams, and move audio sources around in 3D space
-- Custom audio hardware built to handle all the audio outputs
+#### Version 1 Complete!
+All the hardware, software, lighting and audio needed to get a working piece ready for UnSCruz was completed on time.
 
-#### Lighting
-- Music-reactive lighting now works
-- Custom LED drivers
+#### UnSCruz (May 2024)
+The Auditorium was placed at UnSCruz (a "regional" burn, like a mini local version of Burning Man).
+Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man
 
-#### Hardware
-- Aluminium skeletons constructed for columns
-- Purchased plastic for columns
-- Started CNC machining the patterns into the plastic
-- First few columns finished
-
-#### Music
-- 3D audio soundscapes recorded
-- Many orchestra and classical pieces created
-- Contemporary piano pieces
-- Remixing of some electronic/ambient pieces
-- Throw in a few curveballs too, using recoding stems from popular artists
-
-## Next steps
-- Programming lighting modes
-- Building furniture for sitting on (probably CNC-cut playatech)
+#### Burning Man (August 2024)
+Awaiting placement decision (ie where exactly it will be placed).
+Upcoming improvements around setup (quick connect cable looms), UI (how people interact with it), scheduling (what kinds of audio work best at what times of day/night), and lighting (kinda rushed this for UnSCruz, a new lighting engine is in the works...)
