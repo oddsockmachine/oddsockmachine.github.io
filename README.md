@@ -60,7 +60,8 @@ All the hardware, software, lighting and audio needed to get a working piece rea
 
 #### UnSCruz (May 2024)
 The Auditorium was placed at UnSCruz (a "regional" burn, like a mini local version of Burning Man).
-Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man
+Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man.
+Pics/video at https://www.instagram.com/oddsockmachine/ 
 
 #### Burning Man (August 2024)
 Awaiting placement decision (ie where exactly it will be placed).
