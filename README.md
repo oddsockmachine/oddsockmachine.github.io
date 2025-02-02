@@ -60,9 +60,20 @@ All the hardware, software, lighting and audio needed to get a working piece rea
 
 #### UnSCruz (May 2024)
 The Auditorium was placed at UnSCruz (a "regional" burn, like a mini local version of Burning Man).
-Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man.
+Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man. 
 Pics/video at https://www.instagram.com/oddsockmachine/ 
+Unfortunately it was placed in a location where the towers couldn't be secured to the ground, so it was damaged during a big storm that rolled through.
 
 #### Burning Man (August 2024)
-Awaiting placement decision (ie where exactly it will be placed).
-Upcoming improvements around setup (quick connect cable looms), UI (how people interact with it), scheduling (what kinds of audio work best at what times of day/night), and lighting (kinda rushed this for UnSCruz, a new lighting engine is in the works...)
+Postponed due to damage sustained
+
+#### UnSCruz (May 2025)
+Damage fixed, lots of improvements:
+Easier setup (quick connect cable looms)
+UI (easier for participants to choose songs, moods, etc)
+Scheduling/content (more appropriate mix of songs depending on time of day)
+Lighting (new lighting engine, more and better visualizations)
+Will be placed indoors in the dark, to avoid sound bleed and allow lighting to run 24/7
+
+#### Burning Man (August 2025)
+Applying soon...
