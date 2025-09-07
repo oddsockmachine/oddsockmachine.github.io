@@ -2,7 +2,7 @@
 
 ### An interactive and immersive showcase of light, spatial music and 3D ambient sound, designed to intrigue and inspire. Wander through an orchestra, lay in the middle of a breaking wave, or surround yourself with swirling piano notes and singing birds.
 
-![Overview pic](img1.jpg)
+![Overview pic](imgs/img1.jpg)
 
 ## Physical Description
 
@@ -28,7 +28,7 @@
 - The columns themselves are made of an aluminum skeleton with black plastic panels attached to the surface. An inner layer of white plastic diffuses the internal lighting through the etched markings.
 - Benches and other seating options are made of plywood.
 
-![Overview pic](closeup.jpg)
+![Overview pic](imgs/closeup.jpg)
 
 ## Interactivity
 
@@ -39,7 +39,7 @@
 - When the piece detects nobody nearby, it can try to lure participants in from a distance with intriguing light and sound. A single participant coming close might elicit a solo piano piece, with individual notes, echoes, harmonies and counterpoint swirling around them. A (virtual) campfire could be lit in the center, with the sound of crackling logs, while birdsong skirts the perimeter. The detection of multiple people might prompt a symphony orchestra piece, with every instrument coming from a different place. People sitting and relaxing late at night might warrant softer ambient music, with the gentle sounds of waves crashing across the space, whereas many people walking around in the early evening might lead to something a bit more upbeat.
 - Overall, the piece aims to automatically respond to the people and circumstances around it in whichever way will best provoke reflection, wonder, and intrigue.
 
-![Overview pic](mid.jpg)
+![Overview pic](imgs/mid.jpg)
 
 ## Mission
 Inclusion and participation have been at the forefront of my mind while designing this. I want to create a space that is welcoming and inclusive by its very nature - no walls or doors, no entry lines, no center, front, or best spot to be. That inclusivity leads to participation. Likewise, there are no buttons or obvious inputs - participation is innate. Everyone who comes close is automatically a participant in the shared experience, and their presence helps to shape the events that unfold.
@@ -50,7 +50,7 @@ I’m also leaning heavily on natural influences for this piece. Black Rock Dese
 
 The playa can be an overwhelming place at night: loud thumping music and bright flashy lights can be hard to escape. I’d like to create a place of respite, where people feel comfortable slowing down, having space to reflect and feel recharged. I’m also planning to showcase a lot of musical genres which are not well represented at Burning Man (Indian classical, Gamelan, West African ensembles, ambient, classical, contemporary piano), all of which bring a different energy and allow people to step outside their usual experience to experience something new.
 
-![Overview pic](distance.jpg)
+![Overview pic](imgs/distance.jpg)
 
 
 ## Progress so far...
