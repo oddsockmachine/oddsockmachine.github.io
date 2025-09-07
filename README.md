@@ -25,3 +25,8 @@ The next generation of spatial sound and reactive lighting
 ### [UnSCruz 2025](docs/UNSCRUZ25.md/)
 
 ### [Burning Man 2025](docs/BURNINGMAN25.md/)
+
+## Links
+
+- [Instagram @oddsockmachine](https://www.instagram.com/oddsockmachine/)
+- [LinkedIn](https://www.linkedin.com/)
