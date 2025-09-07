@@ -57,13 +57,13 @@ The playa can be an overwhelming place at night: loud thumping music and bright 
 #### Version 1 Complete!
 All the hardware, software, lighting and audio needed to get a working piece ready for UnSCruz was completed on time.
 
-#### [UnSCruz (May 2024)](docs/UNSCRUZ24.md)
+#### [UnSCruz (May 2024)](UNSCRUZ24.md)
 The Auditorium was placed at UnSCruz (a "regional" burn, like a mini local version of Burning Man).
 Lots of good feedback from participants, lots of lessons learned, and a whole list of improvements to make before it goes to Burning Man. 
 Pics/video at https://www.instagram.com/oddsockmachine/ 
 Unfortunately it was placed in a location where the towers couldn't be secured to the ground, so it was damaged during a big storm that rolled through.
 
-#### [UnSCruz (May 2025)](docs/UNSCRUZ25.md)
+#### [UnSCruz (May 2025)](UNSCRUZ25.md)
 Damage fixed, lots of improvements:
 - Easier setup (quick connect cable looms)
 - UI (easier for participants to choose songs, moods, etc)
@@ -71,7 +71,7 @@ Damage fixed, lots of improvements:
 - Lighting (new lighting engine, more and better visualizations)
 - Placed indoors in the dark, to avoid sound bleed and allow lighting to run 24/7
 
-#### [Burning Man (August 2025)](docs/BURNINGMAN25.md)
+#### [Burning Man (August 2025)](BURNINGMAN25.md)
 Decided that a phone-based UI was inappropriate for the event - it takes people out of the moment
 Instead created the center pedestal, allowing people to select a combination of song types and moods to best fit the moment
 Setup went smoothly thanks to the two previous outings
