@@ -1,4 +1,4 @@
-# OddSockMachine - Art & Design
+# OddSockMachine - Engineering / Art / Design
 
 ## Installations
 
