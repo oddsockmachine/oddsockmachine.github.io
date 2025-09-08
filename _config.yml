@@ -5,7 +5,7 @@ minima:
     - AUDITORIUM.md
     - AUDITORIUM_V2.md
   skin: solarized
-  site:
-    title: ODDSOCKMACHINE
-  description: The Art and Engineering of Dave Walker
-  author: "Dave Walker"
+site:
+  title: ODDSOCKMACHINE
+description: The Art and Engineering of Dave Walker
+author: "Dave Walker"
