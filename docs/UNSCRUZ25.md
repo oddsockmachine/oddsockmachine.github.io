@@ -21,9 +21,15 @@ This was a good opportunity to prove out the improvements I made ready for Burni
 - On the other hand, I decided that participants using their phone to control the piece would ruin any sense of immediacy or immersion, especially at Burning Man. Instead, I came up with the "pedestal", a small control box and screen to give people control over the "vibe" of the playlist, without picking individual songs.
 
 ## Video
-[Einaudi](https://youtube.com/shorts/5cDpeC-Tnq8)
-[Pink Floyd](https://youtube.com/shorts/Zzxa6TwU8yM)
-[Pink Floyd](https://youtu.be/iMaKmJfkbSM )
+[Testing - Blue Sky Action](https://photos.app.goo.gl/DezWXNFhFLf1xDkK6)
+
+[Testing - Grieg, Morning Mood](https://photos.app.goo.gl/76RK1sScAvnpJrCBA)
+
+[Testing - Einaudi](https://photos.app.goo.gl/1xQfkJCLHKLFaHMk9)
+
+[At Night - Time](https://photos.app.goo.gl/AEx5aHjNWYh8VT68A)
+
+[At Night - Great Gig In The Sky](https://photos.app.goo.gl/TLuTAe8wNi4Aacis6)
 
 ## Pictures
 

@@ -27,3 +27,18 @@ This was a good test run, and the first time the installation had been fully set
 - Being placed in the Arena meant that the big art cars and sound camps would easily overpower the soft sounds and low-power of Auditorium.
 
 - It was a great experience to prove that the whole idea of Spatial Audio works.
+
+## Videos
+
+[Testing - 2D Color Effects](https://photos.app.goo.gl/1yK6G2dft3UPz3Qx8)
+
+## Pictures
+
+![Setup](imgs/u24_setup.jpg)
+![Blue](imgs/u24_blue.jpg)
+![Fire](imgs/u24_fire.jpg)
+![Night](imgs/u24_night.jpg)
+![Group](imgs/u24_group.jpg)
+![Group2](imgs/u24_group2.jpg)
+![Group3](imgs/u24_group3.jpg)
+![Damage](imgs/u24_damage.jpg)
