@@ -19,3 +19,19 @@ This was a good opportunity to prove out the improvements I made ready for Burni
 - There were problems with the Wifi Access Point: I never thought to test the installation at home _without_ the home wifi. As a result, some IPs which I considered static actually shifted, meaning people couldn't use the QR codes to access the control website.
 
 - On the other hand, I decided that participants using their phone to control the piece would ruin any sense of immediacy or immersion, especially at Burning Man. Instead, I came up with the "pedestal", a small control box and screen to give people control over the "vibe" of the playlist, without picking individual songs.
+
+## Video
+Einaudi: https://youtube.com/shorts/5cDpeC-Tnq8
+
+
+## Pictures
+
+Setting up
+![Setup1](imgs/u25_setup1.jpg)
+![Setup2](imgs/u25_setup2.jpg)
+![Setup3](imgs/u25_setup3.jpg)
+At night
+![Night1](imgs/night1.jpg)
+![Night2](imgs/night2.jpg)
+![Night3](imgs/night3.jpg)
+![Night4](imgs/night4.jpg)
