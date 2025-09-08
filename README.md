@@ -1,4 +1,4 @@
-# OSM
+# OddSockMachine - Art, Design, Engineering
 
 ## Installations
 
