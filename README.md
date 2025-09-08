@@ -30,6 +30,11 @@ A mobile  90's era arcade cabinet
 
 ### [Burning Man 2025](docs/BURNINGMAN25.md/)
 
+## Design Docs
+
+### Auditorium
+Coming Soon
+
 ## Links
 
 - [Instagram @oddsockmachine](https://www.instagram.com/oddsockmachine/)
