@@ -1,0 +1,6 @@
+remote_theme: "jekyll/minima"
+minima:
+  nav_pages:
+    - README.md
+    - AUDITORIUM.md
+    - AUDITORIUM_V2.md
