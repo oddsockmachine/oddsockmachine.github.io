@@ -76,3 +76,5 @@ Decided that a phone-based UI was inappropriate for the event - it takes people 
 Instead created the center pedestal, allowing people to select a combination of song types and moods to best fit the moment
 Setup went smoothly thanks to the two previous outings
 A major storm (65mph winds!) tested this (and me) to its limits, but it survived and stayed running for 9 days without interruption
+
+#### [Autumn Lights (October 2025)](AUTUMNLIGHTS25.md)

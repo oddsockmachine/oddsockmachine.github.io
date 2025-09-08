@@ -10,11 +10,15 @@ An interactive and immersive showcase of light, spatial music and 3D ambient sou
 
 The next generation of spatial sound and reactive lighting
 
+### [Deep Play(a)](docs/DEEP_PLAY.md/)
+
+A mobile  90's era arcade cabinet
+
 ## Articles and Guides
 
-###  [DIY Solar for Art Installations](docs/SOLAR.md/)
-
 ###  [Building complex systems for Burning Man](docs/SYSTEMS.md/)
+
+###  [DIY Solar for Art Installations](docs/SOLAR.md/)
 
 ###  [Mesh networks for installation monitoring](docs/MESH.md/)
 
