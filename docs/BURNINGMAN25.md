@@ -33,3 +33,17 @@ I left a wedding-style guestbook on the central pedestal, and by the end of the 
 ## Next steps
 
 Time to design and build [Auditorium V2](AUDITORIUM_V2.md)!
+
+## Pictures
+
+Final sunrise before teardown
+![Sunrise](imgs/BM25_sunrise_1.jpg)
+
+Pre-dawn
+![Morning](imgs/BM25_morning_1.jpg)
+
+Late nights
+![Night1](imgs/BM25_night_1.jpg)
+![Night2](imgs/BM25_night_2.jpg)
+![Night3](imgs/BM25_night_3.jpg)
+![Night4](imgs/BM25_night_4.jpg)
