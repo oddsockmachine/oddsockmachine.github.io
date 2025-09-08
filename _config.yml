@@ -4,7 +4,7 @@ minima:
     - README.md
     - AUDITORIUM.md
     - AUDITORIUM_V2.md
-  skin: solarized
+  skin: solarized_dark
   site:
     title: ODDSOCKMACHINE
   site.title: ODDSOCKMACHINE
