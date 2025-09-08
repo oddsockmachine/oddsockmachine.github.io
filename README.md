@@ -1,5 +1,3 @@
-# OddSockMachine - Engineering / Art / Design
-
 ## Installations
 
 ### [The Auditorium](docs/AUDITORIUM.md/)
