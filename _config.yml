@@ -5,3 +5,5 @@ minima:
     - AUDITORIUM.md
     - AUDITORIUM_V2.md
   skin: solarized
+  site:
+    title: ODDSOCKMACHINE
