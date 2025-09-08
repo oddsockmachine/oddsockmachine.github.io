@@ -21,9 +21,9 @@ This was a good opportunity to prove out the improvements I made ready for Burni
 - On the other hand, I decided that participants using their phone to control the piece would ruin any sense of immediacy or immersion, especially at Burning Man. Instead, I came up with the "pedestal", a small control box and screen to give people control over the "vibe" of the playlist, without picking individual songs.
 
 ## Video
-Einaudi: https://youtube.com/shorts/5cDpeC-Tnq8
-Pink Floyd: https://youtube.com/shorts/Zzxa6TwU8yM
-Pink Floyd: https://youtu.be/iMaKmJfkbSM 
+[Einaudi](https://youtube.com/shorts/5cDpeC-Tnq8)
+[Pink Floyd](https://youtube.com/shorts/Zzxa6TwU8yM)
+[Pink Floyd](https://youtu.be/iMaKmJfkbSM )
 
 ## Pictures
 
@@ -32,7 +32,7 @@ Setting up
 ![Setup2](imgs/u25_setup2.jpg)
 ![Setup3](imgs/u25_setup3.jpg)
 At night
-![Night1](imgs/night1.jpg)
-![Night2](imgs/night2.jpg)
-![Night3](imgs/night3.jpg)
-![Night4](imgs/night4.jpg)
+![Night1](imgs/u25_night1.jpg)
+![Night2](imgs/u25_night2.jpg)
+![Night3](imgs/u25_night3.jpg)
+![Night4](imgs/u25_night4.jpg)
