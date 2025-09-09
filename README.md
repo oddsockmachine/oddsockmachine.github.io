@@ -38,4 +38,4 @@ Coming Soon
 ## Links
 
 - [Instagram @oddsockmachine](https://www.instagram.com/oddsockmachine/)
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/dave-j-walker/)
